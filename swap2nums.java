@@ -1,3 +1,4 @@
+import java.io.*;
 public class swap2nums {
     public static void main(String[] args) {
         int a = 200;
